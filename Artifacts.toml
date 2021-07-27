@@ -1,0 +1,83 @@
+[[lttng_ust]]
+arch = "aarch64"
+git-tree-sha1 = "47e125ed367523db31598d271be1e249c5bbf58b"
+libc = "glibc"
+os = "linux"
+
+    [[lttng_ust.download]]
+    sha256 = "0b84efd660e5a13eb695c981c71f683d9dc02e35775e79952a8517c12be1f995"
+    url = "https://github.com/JuliaBinaryWrappers/lttng_ust_jll.jl/releases/download/lttng_ust-v2.12.2+0/lttng_ust.v2.12.2.aarch64-linux-gnu.tar.gz"
+[[lttng_ust]]
+arch = "aarch64"
+git-tree-sha1 = "008441a5c6479b0a8cb3ed3e6a7b1822ffd6e090"
+libc = "musl"
+os = "linux"
+
+    [[lttng_ust.download]]
+    sha256 = "071a33769b78e03a7e7e84468eefa495ac0a59ec730c7744d56c09564dccb396"
+    url = "https://github.com/JuliaBinaryWrappers/lttng_ust_jll.jl/releases/download/lttng_ust-v2.12.2+0/lttng_ust.v2.12.2.aarch64-linux-musl.tar.gz"
+[[lttng_ust]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d7993d71fd25fe4982c4e57a837a9b2e2a0e7262"
+libc = "glibc"
+os = "linux"
+
+    [[lttng_ust.download]]
+    sha256 = "d17dd23ee8e8862ea7656103f84510e143e690fa97a68fdb2021cf30b0bc60aa"
+    url = "https://github.com/JuliaBinaryWrappers/lttng_ust_jll.jl/releases/download/lttng_ust-v2.12.2+0/lttng_ust.v2.12.2.armv7l-linux-gnueabihf.tar.gz"
+[[lttng_ust]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a15c4d97b9eecbcaa1e6dcd48b8054f750bc045a"
+libc = "musl"
+os = "linux"
+
+    [[lttng_ust.download]]
+    sha256 = "8b27f1b83bc4d46f050bd0d426840a7ffe39240e5d8232342ff89323c1fa1039"
+    url = "https://github.com/JuliaBinaryWrappers/lttng_ust_jll.jl/releases/download/lttng_ust-v2.12.2+0/lttng_ust.v2.12.2.armv7l-linux-musleabihf.tar.gz"
+[[lttng_ust]]
+arch = "i686"
+git-tree-sha1 = "0d329058d25a404d6906cce1c3496b43871bb9ac"
+libc = "glibc"
+os = "linux"
+
+    [[lttng_ust.download]]
+    sha256 = "ac780d0dbab056360a9f699d8cb8067e56dcbe22ff1351b53ea3e7972cdfb963"
+    url = "https://github.com/JuliaBinaryWrappers/lttng_ust_jll.jl/releases/download/lttng_ust-v2.12.2+0/lttng_ust.v2.12.2.i686-linux-gnu.tar.gz"
+[[lttng_ust]]
+arch = "i686"
+git-tree-sha1 = "f67f4e855d3b1e2792361743718f2a5adb992635"
+libc = "musl"
+os = "linux"
+
+    [[lttng_ust.download]]
+    sha256 = "8b0778de88a6551aed405ecfb4ddd72e6ddc87df3765965e6cf696fbffdf9420"
+    url = "https://github.com/JuliaBinaryWrappers/lttng_ust_jll.jl/releases/download/lttng_ust-v2.12.2+0/lttng_ust.v2.12.2.i686-linux-musl.tar.gz"
+[[lttng_ust]]
+arch = "powerpc64le"
+git-tree-sha1 = "599b0884d34328386681617ede2e2fe97bd01995"
+libc = "glibc"
+os = "linux"
+
+    [[lttng_ust.download]]
+    sha256 = "1bbe504f095b5d29385093641d806a32e6f1ff897f769a3ed9f92a9c68b961d6"
+    url = "https://github.com/JuliaBinaryWrappers/lttng_ust_jll.jl/releases/download/lttng_ust-v2.12.2+0/lttng_ust.v2.12.2.powerpc64le-linux-gnu.tar.gz"
+[[lttng_ust]]
+arch = "x86_64"
+git-tree-sha1 = "588cedf9c0cf90e9dada6859089aa168d1e96b2c"
+libc = "glibc"
+os = "linux"
+
+    [[lttng_ust.download]]
+    sha256 = "d120672a64f3e80d197be37e7f888e4c319c0017c86f6714cb9f99c4b4a726c8"
+    url = "https://github.com/JuliaBinaryWrappers/lttng_ust_jll.jl/releases/download/lttng_ust-v2.12.2+0/lttng_ust.v2.12.2.x86_64-linux-gnu.tar.gz"
+[[lttng_ust]]
+arch = "x86_64"
+git-tree-sha1 = "79a7a3df85c0b767d63740bc7b6a0051aa201f01"
+libc = "musl"
+os = "linux"
+
+    [[lttng_ust.download]]
+    sha256 = "60a5aeee7f15646eb479e89f0292123b2d41f7fe8433e54ff5a7b903d10dfcfa"
+    url = "https://github.com/JuliaBinaryWrappers/lttng_ust_jll.jl/releases/download/lttng_ust-v2.12.2+0/lttng_ust.v2.12.2.x86_64-linux-musl.tar.gz"
